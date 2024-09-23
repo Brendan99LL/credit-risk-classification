@@ -1,6 +1,6 @@
 # credit-risk-classification
-Columbia University Bootcamp Module 20 Challenge
-Supervised Machine Learning
+<p>Columbia University Bootcamp Module 20 Challenge</p>
+<p></p>Supervised Machine Learning</p>
 
 **Credit Risk Analysis Report**
 <p>
